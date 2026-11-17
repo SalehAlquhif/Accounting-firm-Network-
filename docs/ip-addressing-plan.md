@@ -29,11 +29,11 @@ VLAN ID| VLAN Name    | Network Address   |    CIDR    |  Subnet Mask     |   De
 Network Management – VLAN 99
 
 Device| IP Address
-CSW1| 192.168.10.146
-ASW1| 192.168.10.147
-ASW2| 192.168.10.148
-AP1| 192.168.10.149
-AP2| 192.168.10.150
+CSW1| 192.168.10.145
+ASW1| 192.168.10.146
+ASW2| 192.168.10.147
+AP1| 192.168.10.148
+AP2| 192.168.10.149
 
 Server – VLAN 50
 
