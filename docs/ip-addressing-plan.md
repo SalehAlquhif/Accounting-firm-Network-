@@ -32,8 +32,16 @@ Device| IP Address
 CSW1| 192.168.10.145
 ASW1| 192.168.10.146
 ASW2| 192.168.10.147
-AP1| 192.168.10.148
-AP2| 192.168.10.149
+AP1 | N/A             |  AccessPoint-PT does not support configurable management IP addressing in Packet Tracer
+AP2 | N/A             |  AccessPoint-PT does not support configurable management IP addressing in Packet Tracer
+
+Reserved IP Addresses:
+
+- 192.168.10.148
+- 192.168.10.149
+These addresses are reserved for future infrastructure devices or access points that support configurable management IP addressing.
+
+
 
 Server – VLAN 50
 
