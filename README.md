@@ -63,6 +63,13 @@ The implementation included connectivity and service checks, including:
 - NAT/PAT and simulated external connectivity
 - Network time synchronization and Syslog messages
 
+- note Packet Tracer ACL Limitation
+
+Extended ACLs were configured and tested on the Layer 3 switch (CSW1). Traffic filtering behaved as expected during testing. However, Packet Tracer did not consistently retain the ACL interface bindings in the exported running configuration.
+The ACL definitions are included in "configs/CSW1-running-config.cfg", and the intended interface bindings are documented separately in "configs/CSW1-ACL-Applications.cfg".
+
+This limitation is specific to the Packet Tracer simulation environment.
+
 Tools and Technologies
 
 - Cisco Packet Tracer
